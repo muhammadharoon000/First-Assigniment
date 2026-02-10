@@ -1,11 +1,6 @@
 #Assigniment
 <h1 align="center">🐍 Python Variables, Data Types & Type Casting</h1>
 
-<p align="center">
-A beginner-friendly guide covering Python variable naming rules, data types, 
-type() function, type casting, and practical examples.
-</p>
-
 <br>
 
 <h2>📌 Introduction</h2>
